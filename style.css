@@ -1,0 +1,120 @@
+body
+{
+		background:url(6917292-book-pages.jpg);
+		background-repeat:no-repeat;
+
+		
+	
+}
+table
+{
+	width:1000px;
+}
+td
+{
+		color:black;
+		font-weight:bold;
+}
+
+
+
+nav
+{
+		position:absolute;
+		top:12%;
+		left:10%;
+		font-size:250%;
+		width:1250px;
+		font-family:Cooper Black;
+		
+}
+#pos
+{
+	position:absolute;
+	top:20%;
+	font-family:Comic Sans MS;
+	
+}
+
+
+a:link
+{
+	color:black;
+	text-decoration:none;
+	
+}
+a:visited
+{
+
+	color:darkblue;
+}
+a:hover
+{
+	color:grey;
+}
+
+h2
+{
+		color:darkblue;
+}
+
+h3
+{
+		font-weight:bold;
+		font-size:250%;
+		font-family:Harrington;
+}
+
+p
+{
+	font-size:140%;
+}
+
+#formposition
+{
+	position:absolute;
+	top:30%;
+	left:30%;
+}
+
+#searchstyle
+{
+	position:absolute;
+	top:25%;
+	color:black;
+	font-weight:bold;
+	width:100%;
+	
+}
+
+#loginpos
+{
+	position:absolute;
+	top:-500%;
+	left:80%;
+	
+}
+
+#cartstyle
+{
+	position:absolute;
+	left:8%; 
+	top:25%;
+}
+
+#general
+{
+	position:absolute; 
+	left:8%; 
+	top:30%;
+}
+h1
+{
+	font-family:Chiller;
+	font-size:270%;
+}
+img:hover 
+{
+   opacity: 0.75;
+}
+
